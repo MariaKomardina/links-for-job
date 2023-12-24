@@ -9,6 +9,22 @@
   margin: 35px auto;
 }
 
+.container .title {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  line-height: 25px;
+  padding: 15px 15px 40px 15px;
+}
+
+.container .text {
+  font-family: "Roboto", sans-serif;
+  /* line-height: 25px; */
+  /* text-align: justify; */
+  text-align: center;
+  padding: 15px 15px 40px 15px;
+  color: #727272;
+}
+
 .container ul {
   width: 100%;
   padding: 0 15px;
